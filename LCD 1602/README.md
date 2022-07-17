@@ -17,3 +17,7 @@ E: E(或EN)端为使能(enable)端,高电平（1）时读取信息，负跳变�
 A: 背光正极，可接一个10—47欧的限流电阻到VDD
 
 K: 背光负极
+
+### Raspberry - GPIO and the 40-pin Header
+[offical link: ](https://www.raspberrypi.com/documentation/computers/os.html#gpio-and-the-40-pin-header)
+![GPIO-Pinout-Diagram-2](https://user-images.githubusercontent.com/45325777/179383047-ac59e4c7-304e-40dd-86b1-4a7db9ef4d43.png)
